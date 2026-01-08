@@ -16,3 +16,8 @@ výšky a hmotnosti dítěte podle věku a pohlaví.
 
 ## Data
 - percentilová data jsou uložena v souboru `percentiles.csv`
+
+## Výstup
+
+Program vypíše, zda je vstupní hodnota pod,
+v rámci nebo nad normou pro daný věk.
